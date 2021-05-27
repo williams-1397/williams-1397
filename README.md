@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @williams-1397
+- 👀 I’m interested in web-development with .net framework.
+- 🌱 I’m currently studiyng my BTech in computer engineering.
